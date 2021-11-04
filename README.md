@@ -1,2 +1,4 @@
 # first_package
-first package created for all
+
+creating a simple program to make it available to everyone
+* https://www.freecodecamp.org/news/build-your-first-python-package/
